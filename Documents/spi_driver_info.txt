@@ -1,0 +1,36 @@
+
+
+SPI Senor driver:
+
+1st Milestone:
+1. Basics of spi protocol
+	a. Fundamentals of spi
+	b. Signas of spi
+	c. Modes of spi 
+
+2. SPI support in RPI board Hardware
+	https://www.raspberrypi.org/documentation/hardware/raspberrypi/spi/README.md#driver
+
+3. Configuring SPI Like Installing Kernel Support (with Raspi-Config)
+	https://learn.adafruit.com/adafruits-raspberry-pi-lesson-4-gpio-setup/configuring-spi
+
+4. For Implementing the spi slave driver necessary structres and apis 
+
+5. gone through the example driver codes of spi drivers (looking for spi core and master apis if required)
+
+6. BMP280 sensor device configuraton part for implementing the drivers
+
+
+References:
+
+https://01.org/linuxgraphics/gfx-docs/drm/driver-api/spi.html
+https://www.kernel.org/doc/html/latest/spi/spi-summary.html#:~:text=The%20%E2%80%9CSerial%20Peripheral%20Interface%E2%80%9D%20(,uses%20a%20master%2Fslave%20configuration.
+https://cdmana.com/2021/04/20210416122050961K.html
+https://01.org/linuxgraphics/gfx-docs/drm/spi/index.html
+https://www.kernel.org/doc/html/v4.14/driver-api/spi.html
+http://events17.linuxfoundation.org/sites/events/files/slides/Groking%20the%20Linux%20SPI%20Subsystem.pdf
+https://www.slideshare.net/sysplay/spi-drivers
+
+
+
+
